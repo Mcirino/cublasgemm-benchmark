@@ -61,7 +61,7 @@ int main(int argc, char ** argv){
 
 
   int min_m_k_n = 64; // min matrix size
-  int max_m_k_n = 7744; // max matrix size
+  int max_m_k_n = 9600; // max matrix size
   int repeats = 100;
   int verbose = 1;
 
